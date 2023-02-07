@@ -8,6 +8,6 @@ Leetcode上2500多道题，我实在不知从何刷起。
 
 # 二叉树
 
-1. [二叉树的递归遍历]()
-2. [二叉树的迭代遍历]()
+1. [二叉树的递归遍历](https://github.com/nanshao13/leetcode/blob/main/problems/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%80%92%E5%BD%92%E9%81%8D%E5%8E%86.md)
+2. [二叉树的迭代遍历](https://github.com/nanshao13/leetcode/blob/main/problems/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E8%BF%AD%E4%BB%A3%E9%81%8D%E5%8E%86.md)
 
