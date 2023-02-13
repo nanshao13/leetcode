@@ -13,6 +13,11 @@ Leetcode上2500多道题，我实在不知从何刷起。
 3. [滑动窗口](https://github.com/nanshao13/leetcode/blob/main/problems/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3.md)
 4. [螺旋矩阵](https://github.com/nanshao13/leetcode/blob/main/problems/%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5.md)
 
+# 链表
+
+1. [移除链表元素](https://github.com/nanshao13/leetcode/blob/main/problems/%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0.md)
+2. [设计链表](https://github.com/nanshao13/leetcode/blob/main/problems/%E8%AE%BE%E8%AE%A1%E9%93%BE%E8%A1%A8.md)
+
 # 二叉树
 
 1. [二叉树的递归遍历](https://github.com/nanshao13/leetcode/blob/main/problems/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%80%92%E5%BD%92%E9%81%8D%E5%8E%86.md)
