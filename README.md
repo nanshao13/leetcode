@@ -21,6 +21,7 @@ Leetcode上2500多道题，我实在不知从何刷起。
 4. [两两交换链表中的节点](https://github.com/nanshao13/leetcode/blob/main/problems/%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.md)
 5. [删除链表的倒数第N个节点](https://github.com/nanshao13/leetcode/blob/main/problems/%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9.md)
 6. [链表相交](https://github.com/nanshao13/leetcode/blob/main/problems/%E9%93%BE%E8%A1%A8%E7%9B%B8%E4%BA%A4.md)
+7. [环形链表](https://github.com/nanshao13/leetcode/blob/main/problems/%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.md)
 
 # 二叉树
 
