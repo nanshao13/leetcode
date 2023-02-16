@@ -23,6 +23,11 @@ Leetcode上2500多道题，我实在不知从何刷起。
 6. [链表相交](https://github.com/nanshao13/leetcode/blob/main/problems/%E9%93%BE%E8%A1%A8%E7%9B%B8%E4%BA%A4.md)
 7. [环形链表](https://github.com/nanshao13/leetcode/blob/main/problems/%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.md)
 
+# 字符串
+
+1. [反转字符串](https://github.com/nanshao13/leetcode/blob/main/problems/%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+2. [替换空格](https://github.com/nanshao13/leetcode/blob/main/problems/%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.md)
+
 # 二叉树
 
 1. [二叉树的递归遍历](https://github.com/nanshao13/leetcode/blob/main/problems/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%80%92%E5%BD%92%E9%81%8D%E5%8E%86.md)
