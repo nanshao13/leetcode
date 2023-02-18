@@ -28,6 +28,7 @@ Leetcode上2500多道题，我实在不知从何刷起。
 1. [反转字符串](https://github.com/nanshao13/leetcode/blob/main/problems/%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 2. [替换空格](https://github.com/nanshao13/leetcode/blob/main/problems/%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.md)
 3. [旋转字符串](https://github.com/nanshao13/leetcode/blob/main/problems/%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+4. [KMP算法](https://github.com/nanshao13/leetcode/blob/main/problems/KMP%E7%AE%97%E6%B3%95.md)
 
 # 二叉树
 
