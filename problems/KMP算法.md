@@ -1,41 +1,48 @@
 #### [28. 找出字符串中第一个匹配项的下标](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 
+KMP算法一般有三种next数组，这里只会一种，以-1、0开头。
+
 ```cpp
 class Solution {
 public:
-    void getNext(int* next, const string& s) {
-        int j = -1;
-        next[0] = j;
-        for(int i = 1; i < s.size(); i++) { // 注意i从1开始
-            while (j >= 0 && s[i] != s[j + 1]) { // 前后缀不相同了
-                j = next[j]; // 向前回退
+    void getNext(int* next, const string& needle, int nSize) {
+        next[0] = -1;
+        int k = -1;
+        int i = 1;
+        while (i < nSize) {
+            if (k == -1 || needle[k] == needle[i - 1]) {
+                next[i] = k + 1;
+                ++k;
+                ++i;
+            } else {
+                k = next[k];
             }
-            if (s[i] == s[j + 1]) { // 找到相同的前后缀
-                j++;
-            }
-            next[i] = j; // 将j（前缀的长度）赋给next[i]
         }
     }
     int strStr(string haystack, string needle) {
-        if (needle.size() == 0) {
-            return 0;
+        int hSize = haystack.size();
+        int nSize = needle.size();
+        if (hSize < nSize) {
+            return -1;
         }
-        int next[needle.size()];
-        getNext(next, needle);
-        int j = -1; // // 因为next数组里记录的起始位置为-1
-        for (int i = 0; i < haystack.size(); i++) { // 注意i就从0开始
-            while(j >= 0 && haystack[i] != needle[j + 1]) { // 不匹配
-                j = next[j]; // j 寻找之前匹配的位置
+        int next[nSize];
+        getNext(next, needle, nSize);
+        int i = 0;
+        int j = 0;
+        while (i < hSize && j < nSize) {
+            if (j == -1 || haystack[i] == needle[j]) {
+                ++i;
+                ++j;
+            } else {
+                j = next[j];
             }
-            if (haystack[i] == needle[j + 1]) { // 匹配，j和i同时向后移动
-                j++; // i的增加在for循环里
-            }
-            if (j == (needle.size() - 1) ) { // 文本串s里出现了模式串t
-                return (i - needle.size() + 1);
-            }
+        }
+        if (j >= nSize) {
+            return i - j;
         }
         return -1;
     }
 };
 ```
 
+tips：由于这种KMP算法的next的开头是-1、0开始的，那么j就可能回溯到-1，而此时再跟needle.size()比较就会出错，因为像这种调用类方法取得的size都是无符号整数，负数和无符号整数比较大小时，负数会提升为无符号整数，而无符号整数的-1是2^32-1。
