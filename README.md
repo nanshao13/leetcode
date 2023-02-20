@@ -31,6 +31,15 @@ Leetcode上2500多道题，我实在不知从何刷起。
 4. [KMP算法](https://github.com/nanshao13/leetcode/blob/main/problems/KMP%E7%AE%97%E6%B3%95.md)
 5. [重复的子字符串](https://github.com/nanshao13/leetcode/blob/main/problems/%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 
+# 双指针法
+
+1. [移除元素](https://leetcode.cn/problems/remove-element/)
+2. [反转字符串](https://leetcode.cn/problems/reverse-string/)
+3. [替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)
+4. [反转字符串中的单词](https://leetcode.cn/problems/reverse-words-in-a-string/)
+5. [反转链表](https://leetcode.cn/problems/reverse-linked-list/)
+6. [删除链表的倒数第N个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/)
+
 # 二叉树
 
 1. [二叉树的递归遍历](https://github.com/nanshao13/leetcode/blob/main/problems/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%80%92%E5%BD%92%E9%81%8D%E5%8E%86.md)
