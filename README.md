@@ -22,6 +22,7 @@ Leetcode上2500多道题，我实在不知从何刷起。
 5. [删除链表的倒数第N个节点](https://github.com/nanshao13/leetcode/blob/main/problems/%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9.md)
 6. [链表相交](https://github.com/nanshao13/leetcode/blob/main/problems/%E9%93%BE%E8%A1%A8%E7%9B%B8%E4%BA%A4.md)
 7. [环形链表](https://github.com/nanshao13/leetcode/blob/main/problems/%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.md)
+8. [三数之和](https://leetcode.cn/problems/3sum/)
 
 # 字符串
 
@@ -30,6 +31,8 @@ Leetcode上2500多道题，我实在不知从何刷起。
 3. [旋转字符串](https://github.com/nanshao13/leetcode/blob/main/problems/%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 4. [KMP算法](https://github.com/nanshao13/leetcode/blob/main/problems/KMP%E7%AE%97%E6%B3%95.md)
 5. [重复的子字符串](https://github.com/nanshao13/leetcode/blob/main/problems/%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+6. [链表相交](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/)
+7. [环形链表](https://leetcode.cn/problems/linked-list-cycle-ii/)
 
 # 双指针法
 
