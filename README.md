@@ -23,6 +23,7 @@ Leetcode上2500多道题，我实在不知从何刷起。
 6. [链表相交](https://github.com/nanshao13/leetcode/blob/main/problems/%E9%93%BE%E8%A1%A8%E7%9B%B8%E4%BA%A4.md)
 7. [环形链表](https://github.com/nanshao13/leetcode/blob/main/problems/%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.md)
 8. [三数之和](https://leetcode.cn/problems/3sum/)
+9. [四数之和](https://leetcode.cn/problems/4sum/)
 
 # 字符串
 
