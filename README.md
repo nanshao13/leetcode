@@ -44,6 +44,15 @@ Leetcode上2500多道题，我实在不知从何刷起。
 5. [反转链表](https://leetcode.cn/problems/reverse-linked-list/)
 6. [删除链表的倒数第N个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/)
 
+# 栈与队列
+
+1. [用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/)
+2. [用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues/)
+3. [有效的括号](https://leetcode.cn/problems/valid-parentheses/)
+4. [删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/)
+5. [逆波兰表达式求值](https://leetcode.cn/problems/evaluate-reverse-polish-notation/)
+6. [滑动窗口最大值](https://leetcode.cn/problems/sliding-window-maximum/)
+
 # 二叉树
 
 1. [二叉树的递归遍历](https://github.com/nanshao13/leetcode/blob/main/problems/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%80%92%E5%BD%92%E9%81%8D%E5%8E%86.md)
