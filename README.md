@@ -52,6 +52,7 @@ Leetcode上2500多道题，我实在不知从何刷起。
 4. [删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/)
 5. [逆波兰表达式求值](https://leetcode.cn/problems/evaluate-reverse-polish-notation/)
 6. [滑动窗口最大值](https://leetcode.cn/problems/sliding-window-maximum/)
+7. [前K个高频元素](https://leetcode.cn/problems/top-k-frequent-elements/)
 
 # 二叉树
 
