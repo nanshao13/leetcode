@@ -64,4 +64,5 @@ Leetcode上2500多道题，我实在不知从何刷起。
 6. [对称二叉树](https://github.com/nanshao13/leetcode/blob/main/problems/%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 7. [完全二叉树的节点个数](https://github.com/nanshao13/leetcode/blob/main/problems/%E5%AE%8C%E5%85%A8%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E8%8A%82%E7%82%B9%E4%B8%AA%E6%95%B0.md)
 8. [平衡二叉树](https://leetcode.cn/problems/balanced-binary-tree/)
+9. [二叉树的所有路径](https://leetcode.cn/problems/binary-tree-paths/)
 
