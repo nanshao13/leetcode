@@ -69,4 +69,6 @@ Leetcode上2500多道题，我实在不知从何刷起。
 11. [找树左下角的值](https://leetcode.cn/problems/find-bottom-left-tree-value/)
 12. [路径总和](https://leetcode.cn/problems/path-sum/)
 13. [路径总和ll](https://leetcode.cn/problems/path-sum/)
+14. [从前序与中序遍历序列构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+15. [从中序与后序遍历序列构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
 
