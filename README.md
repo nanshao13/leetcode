@@ -25,6 +25,11 @@ Leetcode上2500多道题，我实在不知从何刷起。
 8. [三数之和](https://leetcode.cn/problems/3sum/)
 9. [四数之和](https://leetcode.cn/problems/4sum/)
 
+# 哈希表
+
+1. [有效的字母异位词](https://leetcode.cn/problems/valid-anagram/)
+2. [查找公共字符](https://leetcode.cn/problems/find-common-characters/)
+
 # 字符串
 
 1. [反转字符串](https://github.com/nanshao13/leetcode/blob/main/problems/%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
