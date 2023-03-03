@@ -29,6 +29,7 @@ Leetcode上2500多道题，我实在不知从何刷起。
 
 1. [有效的字母异位词](https://leetcode.cn/problems/valid-anagram/)
 2. [查找公共字符](https://leetcode.cn/problems/find-common-characters/)
+3. [两个数组的交集](https://leetcode.cn/problems/intersection-of-two-arrays/)
 
 # 字符串
 
